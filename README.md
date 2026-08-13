@@ -1,6 +1,8 @@
 # What does this dbt package do?
 
-Creates the dbt model described bellow using Facebook Ads data from [Windsor's connector](https://windsor.ai/connectors/facebook-ads/).
+> **Note:** This package is superseded by [dbt-facebook-big_query](https://github.com/windsor-ai/dbt-facebook-big_query), a production-ready package with full staging models, macros, and tests. Use that for new projects.
+
+Creates the dbt model described below using Facebook Ads data from [Windsor's connector](https://windsor.ai/connectors/facebook-ads/).
 
 <img src="etc/dbt_pipeline.svg">
 
